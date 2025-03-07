@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Chris",
+      "lastName": "Lee",
+      "phoneNumber": "555-555-5555",
+      "emailAddress": "clee@fileinfo.com"
+    },
+    {
+      "userId": 2,
+      "firstName": "Chris",
+      "lastName": "Lee",
+      "phoneNumber": "555-555-5555",
+      "emailAddress": "clee@fileinfo.com"
+    },
+    {
+      "userId": 3,
+      "firstName": "Chris",
+      "lastName": "Lee",
+      "phoneNumber": "555-555-5555",
+      "emailAddress": "clee@fileinfo.com"
+    },
+    {
+      "userId": 4,
+      "firstName": "Chris",
+      "lastName": "Lee",
+      "phoneNumber": "555-555-5555",
+      "emailAddress": "clee@fileinfo.com"
+    },
+    {
+      "userId": 1,
+      "firstName": "Chris",
+      "lastName": "Lee",
+      "phoneNumber": "555-555-5555",
+      "emailAddress": "clee@fileinfo.com"
+    }
+  ]
+}
+
