@@ -1,4 +1,5 @@
 **100 Days of Code – Python Programming**
+
 Welcome to my 100 Days of Code journey! This repository documents my progress as I learn and practice Python programming over 100 days, based on the Code with Harry tutorials.
 
 Repository Structure
