@@ -1,6 +1,7 @@
 **100 Days of Code – Python Programming**
 
 Welcome to my 100 Days of Code journey! This repository documents my progress as I learn and practice Python programming over 100 days,The course materials and exercises are based on Code with Harry tutorials.
+
 **Repository Structure**
 
 I have divided my 100 days of code into **two Folders:**
